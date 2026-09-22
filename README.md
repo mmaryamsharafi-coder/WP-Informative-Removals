@@ -9,7 +9,9 @@ by A. Falah Hasan and M. Sharafi (Corresponding author)
 ## 📁 Repository Structure
 ## Simulation Codes
 - `R/02_simulation_n60_m15.R`: Simulation for n=60, m=15 with alpha=1.5, theta=1.0, lambda=3.0.
-- 
+  ## Real Data Analysis
+- `R/05_real_data_analysis.R`: Full analysis of bladder cancer data.
+- Data: `data/bladder_cancer.csv`
 ## ⚙️ Requirements
 
 - R version 4.0 or higher
